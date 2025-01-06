@@ -87,3 +87,26 @@ See [Detection Docs](https://docs.ultralytics.com/tasks/detect/) for usage examp
 | [YOLOv8x](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-oiv7.pt) | 640                   | 36.3                 | 860.6                          | 3.56                                | 68.7               | 260.6             |
 
 </details>
+
+## Links
+
+https://drive.google.com/drive/folders/14VwnHkH3wRlsOu0KKVfhuQk317-osdGG?usp=sharing
+https://drive.google.com/drive/folders/18Klf_nke5qlX6koZRkF3NE-UhkeJAnfF?usp=sharing
+https://drive.google.com/drive/folders/1H_ZbP1h-ib3njyhoRqNs9d-ft5O8C5I-?usp=sharing
+https://drive.google.com/drive/folders/1_wdYvgGRbaEgRlC5t069IjeNZE83nhDn?usp=sharing
+https://drive.google.com/drive/folders/1g_4p6SZKDa2fDWNj_9lgNw_UkdnC-_t1?usp=sharing
+
+- Cinelerra
+  https://www.cinelerra-gg.org/ubuntu-package/
+- Jahshaka
+  https://sourceforge.net/projects/jahshaka/files/Studio/jahshaka-win-0.8.1-beta.exe/download
+- Blender 3D
+  https://www.blender.org/download/release/Blender4.3/blender-4.3.2-windows-x64.msi/
+- FreeCAD
+  https://github.com/FreeCAD/FreeCAD/releases/download/1.0.0/FreeCAD_1.0.0-conda-Windows-x86_64-installer-1.exe
+- Kdenlive
+  https://download.kde.org/stable/kdenlive/24.12/windows/kdenlive-24.12.0.exe
+- Shotcut
+  https://sourceforge.net/projects/shotcut/files/v24.11.17/shotcut-win64-241117.exe/download
+- Wrap
+  https://www.russian3dscanner.com/download-start-wrap-win64
